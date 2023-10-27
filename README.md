@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstacksammy&label=Profile%20views&color=0e75b6&style=flat" alt="fullstacksammy" /> </p>
 
+- 🎓 I'm a Code Institute graduate with an Advanced Front-End and Full Stack Software Development diploma.
+
 - 🔭 I’m currently working on **Something cool**
 
 - 🌱 I’m currently learning **Advanced React**
