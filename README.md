@@ -11,11 +11,9 @@
 
 - 👯 I'm about to start **A collaborative project for a portfolio art website**
 
-- 💬 Ask me about **Javascript, React, Python and Django**
-
 - 📫 How to reach me **nasstromswe@gmail.com**
 
-- ⚡ Fun fact **I love creating. Coding gives me the same amazing creative feel that writing a song does.**
+- ⚡ Fun fact **I am a musician. I love creating. Coding gives me the same amazing creative feel that writing a song does.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
