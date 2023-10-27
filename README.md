@@ -27,9 +27,13 @@
 
 <h1 align="center">Licenses & Certificates</h1>
 
-![8ef2c1e6-c89a-485d-86e1-3dc79da7cdf5](https://github.com/FullstackSammy/fullstacksammy/assets/112324916/02ca2b9d-b101-4465-ae49-31d082f6fd97) ![Code Institute - Halloween Hackathon 2023 1st Place - 2023-10-25 (1)](https://github.com/FullstackSammy/fullstacksammy/assets/112324916/9c3963d2-8a1f-4834-97d3-ab35ada73a41) ![ZTM Python Cert](https://github.com/FullstackSammy/fullstacksammy/assets/112324916/7ee67219-9bcc-45b7-85d5-17bb18543d01) 
+- [Code Institute - Diploma in Full Stack Software Development (Advanced Front End)](https://www.credential.net/1f9db19d-b2db-4e56-a471-1ad7a398fb11)
 
+- [The Complete Web Developer in 2023](http://ude.my/UC-9118a2ec-b673-4ada-b2ee-54da1e2e1f8b)
 
+- [The Complete Python Developer in 2022](http://ude.my/UC-9a8b4882-2c86-405b-a55e-2fa35965ee1c)
+
+![Code Institute - Halloween Hackathon 2023 1st Place - 2023-10-25 (1)](https://github.com/FullstackSammy/fullstacksammy/assets/112324916/e2ed1c17-8497-4de5-a93c-412dfc7133d2)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstacksammy&show_icons=true&locale=en&layout=compact" alt="fullstacksammy" /></p>
