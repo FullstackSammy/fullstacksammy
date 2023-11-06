@@ -5,9 +5,9 @@
 
 - 🎓 I'm a Code Institute graduate with an Advanced Front-End and Full Stack Software Development diploma.
 
-- 🔭 I’m currently working on **Something cool**
+- 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Advanced React**
+- 🌱 I’m currently learning **C#.NET**
 
 - 👯 I'm about to start **A collaborative project for a portfolio art website**
 
