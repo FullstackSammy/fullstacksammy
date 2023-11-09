@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **C#.NET**
+- 🌱 I’m currently learning **C#.NET** And it's a whole lot of fun!
 
 - 👯 I'm about to start **A collaborative project for a portfolio art website**
 
