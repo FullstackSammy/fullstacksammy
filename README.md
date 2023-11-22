@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Nasstrom</h1>
-<h3 align="center">A passionate fullstack Developer from Sweden</h3>
+<h3 align="center">A passionate fullstack developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstacksammy&label=Profile%20views&color=0e75b6&style=flat" alt="fullstacksammy" /> </p>
 
 - 🔭 I’m currently working on **A collaborative project for a portfolio art website**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **ASP.NET** and thinking about **Unity** as well
 
 - 👯 I'm about to start **Getting into ASP.NET**
 
