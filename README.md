@@ -25,6 +25,7 @@
 
 <h1 align="center">Licenses & Certificates</h1>
 
+- [Zero to Mastery Academy - C#/.NET Bootcamp: The Fundamentals](https://imgur.com/CmwJMPz)
 
 - [Code Institute - Diploma in Full Stack Software Development (Advanced Front End)](https://www.credential.net/1f9db19d-b2db-4e56-a471-1ad7a398fb11)
 
