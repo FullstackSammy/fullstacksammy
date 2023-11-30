@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A movie review blog in ASP.NET**
 
-- 🌱 I’m currently learning **ASP.NET MVC and some Unity**
+- 🌱 I’m currently looking into learning **Unity**
 
 - 💬 Ask me about **C#/.NET, JavaScript and perhaps some Django?**
 
