@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently looking into learning **Unity**
 
-- 💬 Ask me about **C#/.NET, JavaScript and perhaps some Django?**
+- 💬 Ask me about **Django, JavaScript and C#**
 
 - 📫 How to reach me **nasstromswe@gmail.com**
 
