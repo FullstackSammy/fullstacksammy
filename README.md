@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Näsström</h1>
 <h3 align="center">A passionate fullstack developer from Sweden</h3>
 
-- 🔭 I’m currently working on **A movie review blog in ASP.NET**
+- 🔭 I’m currently working on **An E-commerce app with React**
 
 - 🌱 I’m currently looking into learning **Unity**
 
